@@ -9,5 +9,6 @@ This work is licensed under a Creative Commons Attribution 4.0 International lic
 ## Version history
 July 13, 2020: 1.0
 : Initial release: all modules and exercise materials
+
 June 29, 2020: 0.9
 : Prerelease of Greater Inclusion module
